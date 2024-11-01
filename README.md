@@ -9,6 +9,10 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoDOTjpeg&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gritti)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoDOTjpeg&repo=financial-management)](https://github.com/thiagoDOTjpeg/financial-management)
+
 ### Linguagens
 
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
