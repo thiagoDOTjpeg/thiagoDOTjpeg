@@ -7,11 +7,11 @@
 
 ## Conhecimentos
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoDOTjpeg&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-alpha-ten-72.vercel.app/api/top-langs/?username=thiagoDOTjpeg&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gritti&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-alpha-ten-72.vercel.app/api/wakatime?username=@Gritti&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoDOTjpeg&repo=financial-management&bg_color=000&title_color=E94D5F&text_color=FFF)](https://github.com/thiagoDOTjpeg/financial-management)
+[![Readme Card](https://github-readme-stats-alpha-ten-72.vercel.app/api/pin/?username=thiagoDOTjpeg&repo=financial-management&bg_color=000&title_color=E94D5F&text_color=FFF)](https://github.com/thiagoDOTjpeg/financial-management)
 
 ### Linguagens
 
