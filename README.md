@@ -3,7 +3,6 @@
 ### Atualmente estou procurando me aprimorar como dev, buscando conhecimento em diversas áreas para saber qual eu me adapto melhor.
 
 - 🔭 Atualmente estou trabalhando em um projeto de [Gestão Financeira](https://github.com/thiagoDOTjpeg/financial-management)
-- 🌱 Atualmente estou aprendendo Backend com Java e Springboot
 
 ## Conhecimentos
 
