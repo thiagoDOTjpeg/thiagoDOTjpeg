@@ -11,9 +11,9 @@ Sou um desenvolvedor apaixonado por tecnologia e por construir soluções eficie
 ![Estatísticas do GitHub de Thiago](https://github-readme-stats-alpha-ten-72.vercel.app/api?username=thiagoDOTjpeg&show_icons=true&bg_color=000&title_color=E94D5F&text_color=FFF&icon_color=E94D5F&hide_border=true)
 ![Top Langs](https://github-readme-stats-alpha-ten-72.vercel.app/api/top-langs/?username=thiagoDOTjpeg&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF&hide_border=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-alpha-ten-72.vercel.app/api/wakatime?username=@Gritti&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-alpha-ten-72.vercel.app/api/wakatime?username=@Gritti&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats-alpha-ten-72.vercel.app/api/pin/?username=thiagoDOTjpeg&repo=financial-management&bg_color=000&title_color=E94D5F&text_color=FFF)](https://github.com/thiagoDOTjpeg/financial-management)
+[![Readme Card](https://github-readme-stats-alpha-ten-72.vercel.app/api/pin/?username=thiagoDOTjpeg&repo=financial-management&bg_color=000&title_color=E94D5F&text_color=FFF&hide_border=true)](https://github.com/thiagoDOTjpeg/financial-management)
 
 ## 🚀 Habilidades e Tecnologias
 
