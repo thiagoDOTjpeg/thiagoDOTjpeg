@@ -56,5 +56,6 @@ My stack focuses on performance, maintainability, and continuous delivery.
 </div>
 
 <div align="center">
+  <a href="https://wakatime.com/@b24e37ca-07cc-467d-8650-07a4382f3d90"><img src="https://wakatime.com/badge/user/b24e37ca-07cc-467d-8650-07a4382f3d90.svg" alt="Total time coded since Oct 25 2024" /></a>
   <img src="https://komarev.com/ghpvc/?username=thiagodotjpeg&style=flat-square&color=E94D5F&label=Profile+Views" alt="Views"/>
 </div>
