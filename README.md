@@ -53,4 +53,5 @@ My stack focuses on performance, maintainability, and continuous delivery.
 <div align="center">
   <img height="160em" src="https://github-readme-stats-alpha-ten-72.vercel.app/api?username=thiagoDOTjpeg&show_icons=true&bg_color=000&title_color=E94D5F&text_color=FFF&icon_color=E94D5F&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats-alpha-ten-72.vercel.app/api/top-langs/?username=thiagoDOTjpeg&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-streak-stats-five-bay.vercel.app?user=thiagoDOTjpeg&theme=highcontrast&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
