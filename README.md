@@ -1,1 +1,1 @@
-![Stats](https://devfetch.vercel.app/api/github-stats)
+![Stats](https://devfetch-jvlv-murex.vercel.app//api/github-stats)
